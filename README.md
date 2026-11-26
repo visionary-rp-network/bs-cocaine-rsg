@@ -1,5 +1,12 @@
 # Broken Spur Cocaine System for RSG / RedM
 
+**Brand:** Visionary RP Network (VRP)  
+**Project:** Broken Spur  
+**Creator / project credit:** sovereign_rp  
+**Public GitHub:** https://github.com/visionary-rp-network/bs-cocaine-rsg
+
+Custom scripts and integrations are credited to VRP and sovereign_rp. RSG retains credit for its original framework and crafting base.
+
 A standalone export of Broken Spur's fictional in-game coca harvesting, quality-tier processing and NPC bag sales. Includes the custom dependencies needed for its processing station and supply points without replacing the server's ordinary crafting resource.
 
 **Status: installation candidate, not a verified one-click release.** Static and installer checks are provided. A recipient-server gameplay test is required. Existing server shop database records are not exported; supply availability and a brick buyer must be configured as described below.
@@ -62,7 +69,7 @@ Existing definitions take priority. If your server already uses an item ID such 
 - Processing station: **2230.59, -769.93, 43.54**. Third eye the workbench area to open processing. The resource does not spawn a building/interior.
 - Supply points: reagent collection near **2644.68, -1436.57, 51.35**, **-161.53, 646.04, 118.66**, and **2843.10, 1443.79, 74.20**. Approach and use the on-screen **E** interaction.
 - Plantable item: `seedcoca`. The farming crop yields coca leaves and a chance of returning a seed. Default base growth time is 90 minutes, subject to the recipient's farming care/settings.
-- Packaged bags: third eye an eligible **networked ambient NPC** and select **Offer packaged product**. Buyers can decline. Highest-priced tiers are offered first, up to 15 total bags. The default configured tier prices are $8 / $12 / $16 per bag; legacy bags use $5–$9. Existing weed-sales code is not replaced.
+- Packaged bags: third eye an eligible **networked ambient NPC** and select **Offer packaged product**. Buyers can decline. Highest-priced tiers are offered first, up to 15 total bags. The default configured tier prices are $8 / $12 / $16 per bag; legacy bags use $5â€“$9. Existing weed-sales code is not replaced.
 
 All locations and prices are server-owner configuration, not guaranteed to suit every map or economy. Inspect ground/interior access on the recipient server.
 

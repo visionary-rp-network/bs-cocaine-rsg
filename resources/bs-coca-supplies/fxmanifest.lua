@@ -1,10 +1,11 @@
+-- Custom scripts: Visionary RP Network (VRP) | Broken Spur project | sovereign_rp. Original upstream credits and licenses retained.
 fx_version 'cerulean'
 game 'rdr3'
 rdr3_warning 'I acknowledge that this is a prerelease build of RedM, and I am aware my resources *will* become incompatible once RedM ships.'
 lua54 'yes'
 
 name 'bs-coca-supplies'
-author 'Visionary RP Network'
+author 'Visionary RP Network (VRP) | Broken Spur project | sovereign_rp'
 description 'Admin-placed gathering, searching, and custom interaction points for Broken Spur.'
 version '1.0.1'
 

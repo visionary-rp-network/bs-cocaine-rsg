@@ -1,3 +1,4 @@
+-- Custom integration and adaptations: Visionary RP Network (VRP) | Broken Spur project | sovereign_rp. Original upstream credits and licenses retained.
 -- Broken Spur access rules. No hidden station coordinates belong in shared config.
 Config.BlackMarketBookItem = 'bs_coca_processingbook'
 Config.BlackMarketBookContext = '__bs_remote_book'

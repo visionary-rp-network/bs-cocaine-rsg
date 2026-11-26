@@ -1,3 +1,4 @@
+-- Custom integration and adaptations: Visionary RP Network (VRP) | Broken Spur project | sovereign_rp. Original upstream credits and licenses retained.
 Config.CraftingStations = {
     coca_processing_01 = {
         coords = vector3(2230.59, -769.93, 43.54),

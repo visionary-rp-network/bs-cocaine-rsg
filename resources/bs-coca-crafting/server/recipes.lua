@@ -1,3 +1,4 @@
+-- Custom integration and adaptations: Visionary RP Network (VRP) | Broken Spur project | sovereign_rp. Original upstream credits and licenses retained.
 Config.Crafting = {
     -- Broken Spur fictional coca processing: one station, shared crafting XP.
     -- Each stage preserves its quality tier; generic legacy items are not produced.

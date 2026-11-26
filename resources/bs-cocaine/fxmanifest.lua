@@ -1,8 +1,9 @@
+-- Custom scripts: Visionary RP Network (VRP) | Broken Spur project | sovereign_rp. Original upstream credits and licenses retained.
 fx_version 'cerulean'
 game 'rdr3'
 lua54 'yes'
 
-author 'Broken Spur'
+author 'Visionary RP Network (VRP) | Broken Spur project | sovereign_rp'
 description 'Coca harvesting, crafting and NPC sales'
 
 shared_scripts {

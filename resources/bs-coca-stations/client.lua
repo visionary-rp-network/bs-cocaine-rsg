@@ -1,3 +1,4 @@
+-- Custom scripts: Visionary RP Network (VRP) | Broken Spur project | sovereign_rp. Original upstream credits and licenses retained.
 local spawnedProps = {}
 local targetZones = {}
 

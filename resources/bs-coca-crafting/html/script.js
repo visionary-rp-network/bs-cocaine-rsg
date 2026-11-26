@@ -1,3 +1,4 @@
+/* Custom integration and adaptations: Visionary RP Network (VRP) | Broken Spur project | sovereign_rp. Original upstream credits and licenses retained. */
 const RES = typeof GetParentResourceName === 'function' ? GetParentResourceName() : 'bs-coca-crafting';
 
 const state = {

@@ -1,3 +1,4 @@
+-- Custom integration and adaptations: Visionary RP Network (VRP) | Broken Spur project | sovereign_rp. Original upstream credits and licenses retained.
 -- SERVER ONLY. Never move this into shared/ or webhook URLs will be sent to every client.
 SvConfig = {}
 
