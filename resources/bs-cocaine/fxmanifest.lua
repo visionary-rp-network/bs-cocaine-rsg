@@ -21,3 +21,6 @@ dependencies {
 }
 
 rdr3_warning 'I acknowledge that this is a prerelease build of RedM, and I am aware my resources *will* become incompatible once RedM ships.'
+
+-- Server-only brand banner; printed once per resource start.
+server_script 'branding.lua'

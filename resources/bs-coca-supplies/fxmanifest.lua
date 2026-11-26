@@ -26,3 +26,6 @@ dependencies {
     'ox_lib',
     'rsg-core'
 }
+
+-- Server-only brand banner; printed once per resource start.
+server_script 'branding.lua'

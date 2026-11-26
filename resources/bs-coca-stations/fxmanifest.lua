@@ -17,3 +17,6 @@ dependencies {
     'rsg-target',
     'bs-coca-crafting',
 }
+
+-- Server-only brand banner; printed once per resource start.
+server_script 'branding.lua'

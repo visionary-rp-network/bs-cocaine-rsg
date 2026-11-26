@@ -11,3 +11,6 @@ server_scripts {'server/sv_config.lua','server/webhook.lua','server/stations.lua
 ui_page 'html/index.html'
 files {'html/index.html','html/script.js','html/style.css','locales/*.json'}
 dependencies {'rsg-core','rsg-inventory','ox_lib'}
+
+-- Server-only brand banner; printed once per resource start.
+server_script 'branding.lua'

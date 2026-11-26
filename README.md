@@ -1,8 +1,8 @@
 # Broken Spur Cocaine System for RSG / RedM
 
-**Brand:** Visionary RP Network (VRP)  
-**Project:** Broken Spur  
-**Creator / project credit:** sovereign_rp  
+**Brand:** Visionary RP Network (VRP)
+**Project:** Broken Spur
+**Creator / project credit:** sovereign_rp
 **Public GitHub:** https://github.com/visionary-rp-network/bs-cocaine-rsg
 
 Custom scripts and integrations are credited to VRP and sovereign_rp. RSG retains credit for its original framework and crafting base.
@@ -23,6 +23,17 @@ A standalone export of Broken Spur's fictional in-game coca harvesting, quality-
 The installation folder contains **21 additive item definitions and 21 images**, including seeds, base products, tiered products, the brick and all recipe inputs. A coca crop addition is included for modern `rsg-farming` configurations using `Config.Crops`.
 
 No database export, player records, passwords, webhook URLs, Discord identities, license keys or original repository history are included. Encounter guards/predators, unrelated businesses, black-market shops and other server content are not required or included.
+
+## Brand and community
+
+Developed by **Sovereign_RP** for **Visionary Role Play Network (VRP)**, **Broken Spur RedM Project**.
+
+- [Broken Spur Discord](https://discord.gg/BujDWMUHz9)
+- [VRP / creator community Discord](https://discord.gg/CYcU6yMpnS)
+- [Tebex](https://fivem-684975.tebex.io/)
+- [Public GitHub](https://github.com/visionary-rp-network/bs-cocaine-rsg)
+
+Each custom resource prints the VRP banner once in the server console when it starts. Nothing is added to player chat or HUD. See [CREDITS.md](CREDITS.md) for attribution.
 
 ## Requirements
 
@@ -69,7 +80,7 @@ Existing definitions take priority. If your server already uses an item ID such 
 - Processing station: **2230.59, -769.93, 43.54**. Third eye the workbench area to open processing. The resource does not spawn a building/interior.
 - Supply points: reagent collection near **2644.68, -1436.57, 51.35**, **-161.53, 646.04, 118.66**, and **2843.10, 1443.79, 74.20**. Approach and use the on-screen **E** interaction.
 - Plantable item: `seedcoca`. The farming crop yields coca leaves and a chance of returning a seed. Default base growth time is 90 minutes, subject to the recipient's farming care/settings.
-- Packaged bags: third eye an eligible **networked ambient NPC** and select **Offer packaged product**. Buyers can decline. Highest-priced tiers are offered first, up to 15 total bags. The default configured tier prices are $8 / $12 / $16 per bag; legacy bags use $5â€“$9. Existing weed-sales code is not replaced.
+- Packaged bags: third eye an eligible **networked ambient NPC** and select **Offer packaged product**. Buyers can decline. Highest-priced tiers are offered first, up to 15 total bags. The default configured tier prices are $8 / $12 / $16 per bag; legacy bags use $5Ã¢â‚¬â€œ$9. Existing weed-sales code is not replaced.
 
 All locations and prices are server-owner configuration, not guaranteed to suit every map or economy. Inspect ground/interior access on the recipient server.
 
