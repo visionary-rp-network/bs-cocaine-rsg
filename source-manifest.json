@@ -1,0 +1,12 @@
+{
+  "source_commit": "91204e8d8ef961c484e86106fa9a9310f7f78c1b",
+  "status": "installation candidate; not yet tested on recipient server",
+  "custom_resources": [
+    "bs-cocaine",
+    "bs-coca-crafting",
+    "bs-coca-stations",
+    "bs-coca-supplies"
+  ],
+  "supply_records": 3,
+  "items": 21
+}

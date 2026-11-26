@@ -1,0 +1,53 @@
+[
+  {
+    "type": "gathering",
+    "heading": 294.789794921875,
+    "maxAmount": 3,
+    "propModel": "",
+    "minAmount": 1,
+    "label": "Water Tower",
+    "cooldown": 10,
+    "rewardItem": "bs_fictional_reagent",
+    "id": "city_1794472640_9684",
+    "distance": 2,
+    "coords": {
+      "x": 2644.679931640625,
+      "y": -1436.5701904296875,
+      "z": 51.3484878540039
+    }
+  },
+  {
+    "type": "gathering",
+    "heading": 235.5630035400391,
+    "maxAmount": 3,
+    "propModel": "",
+    "minAmount": 1,
+    "label": "Water Tower",
+    "cooldown": 10,
+    "rewardItem": "bs_fictional_reagent",
+    "id": "city_1794472712_3379",
+    "distance": 2,
+    "coords": {
+      "x": -161.52688598632812,
+      "y": 646.0415649414062,
+      "z": 118.65686798095705
+    }
+  },
+  {
+    "type": "search",
+    "coords": {
+      "x": 2843.10205078125,
+      "y": 1443.7913818359375,
+      "z": 74.20327758789062
+    },
+    "maxAmount": 3,
+    "heading": 48.30197143554687,
+    "minAmount": 1,
+    "label": "Water Tower",
+    "propModel": "",
+    "rewardItem": "bs_fictional_reagent",
+    "id": "city_1794561320_5832",
+    "distance": 2,
+    "cooldown": 5
+  }
+]
